@@ -30,4 +30,4 @@ This site was built with HTML 5 and CSS 3
 
 [Repository](https://github.com/jmoniz155/My-Portfolio-Portfolio)
 
-[Live Website](https://jmoniz155.github.io/My-Professional-Portfolio)
+[Live Website](https://jmoniz155.github.io/portfolio/)
