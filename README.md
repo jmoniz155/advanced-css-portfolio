@@ -25,9 +25,8 @@ If you followed tutorials, include links to those here as well.
 
 ## Features
 This site was built with HTML 5 and CSS 3
-
 ## Links
 
-[Repository](https://github.com/jmoniz155/My-Portfolio-Portfolio)
+[Repository](https://github.com/jmoniz155/portfolio)
 
 [Live Website](https://jmoniz155.github.io/portfolio/)
