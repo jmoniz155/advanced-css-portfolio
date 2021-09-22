@@ -1,0 +1,63 @@
+.header id {
+    padding: auto;
+    border: 1px;
+    text-align: center;
+}
+
+h1 h2{
+  width: 33.333%;
+  border-right: 5px blueviolet;
+  border-bottom: 1px;
+  padding-top: 1px;
+  padding-right: 0.5rem;
+  
+    
+}
+
+h2 {
+  width: 33.333%;
+  border-right: 5px blueviolet;
+  border-bottom: 1px;
+  padding-top: 1px;
+  padding-right: 0.5rem;
+
+
+}
+
+body {
+  background-color: chartreuse;
+}
+
+div {
+
+
+  @media screen {
+    
+  }
+}
+/* Tablets - header changes color */
+@media screen and (max-width: 992px) {
+    header {
+      h2 {
+      width: 33.333%;
+      border-right: 5px blueviolet;
+      border-bottom: 1px;
+      padding-top: 1px;
+      padding-right: 0.5rem;
+      
+    }
+  }
+  
+  /* Large smartphones - navbar changes color */
+  @media screen and (max-width: 768px) {
+    
+    }
+  }
+  
+  /* Small smartphones - image placeholders change color */
+  @media screen and (max-width: 576px) {
+    .sample-img {
+      background-color: #8ac4ff;
+    }
+  }
+
