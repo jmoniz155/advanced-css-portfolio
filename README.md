@@ -15,7 +15,7 @@ Provide a short description explaining the what, why, and how of your project. U
 ![alt text](assests/images/screenshot.png)
 
 ## Credits
-I want to give credit to my coding teacher Jon Desrosier and my tutor Armenuhi Avanesyan for all the help getting me going in the right direction building this page.
+I would like to give credit to Mahesh from tutors university for helping me understand booleans, console.log
 
 List your collaborators, if any, with links to their GitHub profiles.
 
