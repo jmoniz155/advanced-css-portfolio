@@ -91,18 +91,23 @@ body {
   background-color:aqua;
 }
 
-div {
-
-
-  @media screen {
-    
-  }
-}
 /* Tablets - header changes color */
+@media screen and (min-width: 993px) {
+  /* header, h1, h2, h3, h4, h5, h6 { */
+    img {
+    width: 33.333%;
+      border-right: 5px blueviolet;
+      border-bottom: 1px;
+      padding-top: 1px;
+      padding-right: 0.5rem;
+      
+    }
+  }
+
 @media screen and (max-width: 992px) {
-    header {
-      h1 h2 h3 h4 h5 h6{
-      width: 33.333%;
+  /* header, h1, h2, h3, h4, h5, h6 { */
+    img {
+    width: 33.333%;
       border-right: 5px blueviolet;
       border-bottom: 1px;
       padding-top: 1px;
@@ -113,9 +118,9 @@ div {
   
   /* Large smartphones - navbar changes color */
   @media screen and (max-width: 768px) {
-    header {
-      h1 h2 h3 h4 h5 h6{
-      width: 33.333%;
+    /* header, h1, h2, h3, h4, h5, h6 { */
+      img {
+      width: 50%;
       border-right: 5px blueviolet;
       border-bottom: 1px;
       padding-top: 1px;
@@ -128,9 +133,10 @@ div {
   /* Small smartphones - image placeholders change color */
   @media screen and (max-width: 576px) {
    
-    header {
-      h1 h2 h3 h4 h5 h6{
-      width: 33.333%;
+     /* header, h1, h2, h3, h4, h5, h6 { */
+      img {
+     
+      width: 90%;
       border-right: 5px blueviolet;
       border-bottom: 1px;
       padding-top: 1px;
